@@ -38,7 +38,7 @@ After the second procedure, we get the representations of the user and item, den
         2. Item-Item Graph
         3. Knowledge Graph
     2. Fusion
-        1. Coarse grained Attention ([CMBF](docs/CMBF%20Cross-Modal-Based%20Fusion%20Recommendation%20Algor%2040ad6d716a794c599a471b29ad00054c.md))
+        1. Coarse grained Attention ([CMBF](docs/CMBF%20Cross-Modal-Based%20Fusion%20Recommendation%20Algor.md))
         2. Fine grained Attention
         3. Combined Attention
     3. Filtration
