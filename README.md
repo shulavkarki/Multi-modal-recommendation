@@ -97,4 +97,4 @@ References:
 
 **[Multimodal Recommender Systems: A Survey](https://arxiv.org/pdf/2302.03883.pdf)**
 
-[****CMBF: Cross-Modal-Based Fusion Recommendation Algorithm****](docs/CMBF%20Cross-Modal-Based%20Fusion%20Recommendation%20Algor%2040ad6d716a794c599a471b29ad00054c.md)
+[****CMBF: Cross-Modal-Based Fusion Recommendation Algorithm****](docs/CMBF%20Cross-Modal-Based%20Fusion%20Recommendation%20Algor.md)
